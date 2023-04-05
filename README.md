@@ -1,1 +1,3 @@
 # CIFAR10
+
+Using TensorFlow built a computer vision classfication model that predicts the subject of an input image. Using the CIFAR-10 (Canadian Institute For Advanced Research) dataset tat consists of 50,000 images split into 10 unique classes. The model uses a convoltional neural network that includes 2d convolutional layers and pooling layers. The data is then flattened before being passed to a neural network with multiple layers that accurately identifies the class of the object. In the ANN predictor section, the model makes use of fully connected layers as well as batch normalisation and dropout. 
